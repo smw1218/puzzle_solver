@@ -22,3 +22,6 @@ need to be tried to eliminate the already placed pieces.
 
 The specific technique that I employed was to try each piece as the
 center piece. Then place pieces in a spiral out from that center.
+
+# Candy
+I got another one called "Candy" added a solver for it.
